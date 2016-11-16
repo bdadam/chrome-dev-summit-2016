@@ -1,13 +1,19 @@
-# Intro
+# Chrome Dev Summit 2016
 
---
+---
 
-# Next slide
+# PWA
 
-```JavaScript
-function asdf() {
-	delete window.x;
-}
+---
 
-asdf();
-```
+# Credential Manager
+
+---
+
+# Performance
+
+---
+
+# Discoverability
+
+---
